@@ -60,8 +60,11 @@ python pc_agent.py
 
 
 /cmd <команда>
+
 /screenshot
+
 /shutdown
+
 /lock
 
 
