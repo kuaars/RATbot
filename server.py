@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
 
 BOT_TOKEN = "YOUR_BOT_TOKEN"
-ALLOWED_USER_ID = 123456789
+ALLOWED_USER_ID = YOUR TELEGRAM USER-ID
 AGENT_SECRET = "YOUR_SECRET_KEY"
 
 bot = Bot(token=BOT_TOKEN)
